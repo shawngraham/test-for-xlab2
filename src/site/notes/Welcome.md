@@ -7,14 +7,8 @@
 
 Is this thing on?
 
-## All Pages
+[[What's Been Signed Out\|What's Been Signed Out]]?
 
-| File                                                  |
-| ----------------------------------------------------- |
-| [[Welcome\|Welcome]]                               |
-| [[Voice-Recorder\|Voice-Recorder]]                 |
-| [[What's Been Signed Out\|What's Been Signed Out]] |
-| [[Members of the Lab\|Members of the Lab]]         |
-| [[Shawn Graham\|Shawn Graham]]                     |
+[[Members of the Lab\|Who currently has signing out privileges?]]
 
-{ .block-language-dataview}
+[[Equipment\|Equipment]]
