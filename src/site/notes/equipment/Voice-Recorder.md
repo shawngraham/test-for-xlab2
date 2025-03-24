@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/voice-recorder/"}
+{"dg-publish":true,"permalink":"/equipment/voice-recorder/","tags":["equipment"]}
 ---
 
 

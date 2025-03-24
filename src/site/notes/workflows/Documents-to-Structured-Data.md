@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/workflows/documents-to-structured-data/"}
+{"dg-publish":true,"permalink":"/workflows/documents-to-structured-data/","tags":["workflow","documents"]}
 ---
 
 

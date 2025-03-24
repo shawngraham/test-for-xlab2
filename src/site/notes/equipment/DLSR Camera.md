@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/dlsr-camera/"}
+{"dg-publish":true,"permalink":"/equipment/dlsr-camera/","tags":["equipment"]}
 ---
 
 

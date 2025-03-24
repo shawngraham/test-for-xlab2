@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/shawn-graham/"}
+{"dg-publish":true,"permalink":"/people/shawn-graham/","tags":["people"]}
 ---
 
 

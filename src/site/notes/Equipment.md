@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment/"}
+{"dg-publish":true,"permalink":"/equipment/","tags":["equipment"]}
 ---
 
 | File                                            | Storage Location |
